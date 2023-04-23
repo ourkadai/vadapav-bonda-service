@@ -14,6 +14,6 @@ public class BondaAPIController {
 
     @GetMapping("/api/bonda")
     Bonda all() {
-        return Bonda.VADA;
+        return Bonda.ALOO;
     }
 }
